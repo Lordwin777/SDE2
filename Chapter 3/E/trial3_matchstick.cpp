@@ -1,12 +1,4 @@
-// Online C++ compiler to run C++ program online
-#include <iostream>
-
-int main() {
-    // Write C++ code here
-    std::cout << "Start small. Ship something.";
-
-    return 0;
-}#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 // string winner() {
